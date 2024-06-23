@@ -35,7 +35,7 @@ See srcs/juloo.keyboard2/KeyValue.java for the keys that have a special meaning.
   </row>
   <row>
     <key key0="ф" key1="tab" key2="`"/>
-	<key key0="ы"/>
+    <key key0="ы"/>
     <key key0="в" key1="loc accent_ring" key2="loc §" key3="loc ß" key4="loc accent_ogonek"/>
     <key key0="а" key1="loc accent_grave" key2="loc £" key3="loc accent_aigu" key7="ӑ"/>
     <key key0="п" key1="loc accent_dot_above"/>
@@ -47,7 +47,7 @@ See srcs/juloo.keyboard2/KeyValue.java for the keys that have a special meaning.
   </row>
   <row>
     <key width="1.5" key0="shift" key2="loc capslock"/>
-	<key key0="є" key7="ѣ"/>
+    <key key0="є" key7="ѣ"/>
     <key key0="ч" key2="loc †" key7="ћ"/>
     <key key0="с" key1="loc accent_cedille" key2="&lt;" key3="."/>
     <key key0="м" key2="&gt;" key3=","/>

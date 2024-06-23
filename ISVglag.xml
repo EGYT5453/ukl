@@ -32,12 +32,12 @@ See srcs/juloo.keyboard2/KeyValue.java for the keys that have a special meaning.
     <key key0="ⱎ" key2="8" key3="*"/>
     <key key0="ⱋ" key1="loc accent_macron" key2="9" key3="(" key4=")"/>
     <key key0="ⰸ" key2="0" key3="f11_placeholder" key4="f12_placeholder"/>
-	<key key0="ⱈ"/>
+    <key key0="ⱈ"/>
   </row>
   <row>
     <key key0="ⱇ" key1="tab" key2="`"/>
-	<key key0="ⰹ" key7="ⰺ"/>
-	<key key0="ⰲ" key7="ⱛ"/>
+    <key key0="ⰹ" key7="ⰺ"/>
+    <key key0="ⰲ" key7="ⱛ"/>
     <key key0="ⰰ" key1="loc accent_ring" key2="loc §" key3="loc ß" key4="loc accent_ogonek" key7="ⱉ"/>
     <key key0="ⱂ" key1="loc accent_grave" key2="loc £" key3="loc accent_aigu"/>
     <key key0="ⱃ" key1="loc accent_dot_above"/>
